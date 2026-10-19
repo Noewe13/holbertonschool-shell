@@ -14,3 +14,4 @@
 12-file_type : affiche le type du fichier /tmp/iamafile
 13-symbolic_link : cree un lien symbolique __ls__ vers /bin/ls dans le dossier courant
 14-copy_html : copie les fichiers html du dossier courant vers le dossier parent, seulement s'ils sont nouveaux ou plus recents
+15-lets_move : deplace les fichiers qui commencent par une majuscule vers /tmp/u
