@@ -10,3 +10,4 @@
 8-firstdelete : supprime le fichier betty dans /tmp/my_first_directory
 9-firstdirdeletion : supprime le dossier my_first_directory dans /tmp
 10-back : revient dans le repertoire precedent
+11-lists : liste tous les fichiers du dossier courant, du dossier parent et de /boot en format long
