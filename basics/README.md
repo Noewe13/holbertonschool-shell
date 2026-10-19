@@ -16,3 +16,4 @@
 14-copy_html : copie les fichiers html du dossier courant vers le dossier parent, seulement s'ils sont nouveaux ou plus recents
 15-lets_move : deplace les fichiers qui commencent par une majuscule vers /tmp/u
 16-clean_emacs : supprime les fichiers du dossier courant qui finissent par ~
+17-tree : cree les dossiers welcome/to/school dans le dossier courant
