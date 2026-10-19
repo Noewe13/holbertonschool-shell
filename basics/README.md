@@ -12,3 +12,4 @@
 10-back : revient dans le repertoire precedent
 11-lists : liste tous les fichiers du dossier courant, du dossier parent et de /boot en format long
 12-file_type : affiche le type du fichier /tmp/iamafile
+13-symbolic_link : cree un lien symbolique __ls__ vers /bin/ls dans le dossier courant
