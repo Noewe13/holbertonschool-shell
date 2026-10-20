@@ -5,3 +5,4 @@
 - `2-groups` : affiche tous les groupes dont l'utilisateur courant fait partie.
 - `3-new_owner` : change le propriétaire du fichier hello en betty.
 - `4-empty` : crée un fichier vide appelé hello.
+- `5-execute` : ajoute le droit d'exécution au propriétaire du fichier hello.
