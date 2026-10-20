@@ -4,3 +4,4 @@
 - `1-who_am_i` : affiche le nom d'utilisateur effectif de l'utilisateur courant.
 - `2-groups` : affiche tous les groupes dont l'utilisateur courant fait partie.
 - `3-new_owner` : change le propriétaire du fichier hello en betty.
+- `4-empty` : crée un fichier vide appelé hello.
