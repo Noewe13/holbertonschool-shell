@@ -7,3 +7,4 @@
 - `4-empty` : crée un fichier vide appelé hello.
 - `5-execute` : ajoute le droit d'exécution au propriétaire du fichier hello.
 - `6-multiple_permissions` : ajoute l'exécution au propriétaire et au groupe, et la lecture aux autres, sur le fichier hello.
+- `7-everybody` : ajoute le droit d'exécution à tout le monde (propriétaire, groupe, autres) sur le fichier hello.
