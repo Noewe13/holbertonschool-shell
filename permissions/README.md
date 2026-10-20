@@ -8,3 +8,4 @@
 - `5-execute` : ajoute le droit d'exécution au propriétaire du fichier hello.
 - `6-multiple_permissions` : ajoute l'exécution au propriétaire et au groupe, et la lecture aux autres, sur le fichier hello.
 - `7-everybody` : ajoute le droit d'exécution à tout le monde (propriétaire, groupe, autres) sur le fichier hello.
+- `8-James_Bond` : fixe les permissions de hello à 007 (rien pour le propriétaire et le groupe, tout pour les autres).
