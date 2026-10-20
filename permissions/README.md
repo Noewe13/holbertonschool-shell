@@ -6,3 +6,4 @@
 - `3-new_owner` : change le propriétaire du fichier hello en betty.
 - `4-empty` : crée un fichier vide appelé hello.
 - `5-execute` : ajoute le droit d'exécution au propriétaire du fichier hello.
+- `6-multiple_permissions` : ajoute l'exécution au propriétaire et au groupe, et la lecture aux autres, sur le fichier hello.
