@@ -13,3 +13,4 @@
 - `10-mirror_permissions` : donne à hello les mêmes permissions que olleh.
 - `11-directories_permissions` : ajoute le droit d'exécution à tout le monde sur les sous-dossiers, sans toucher aux fichiers normaux.
 - `12-directory_permissions` : crée le dossier my_dir avec les permissions 751.
+- `13-change_group` : change le groupe propriétaire du fichier hello en school.
