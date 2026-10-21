@@ -11,3 +11,4 @@
 | `6-third_line` | Displays the third line of the file iacta |
 | `7-file` | Creates a file with special characters in its name, containing "Best School" |
 | `8-cwd_state` | Writes the result of ls -la into the file ls_cwd_content |
+| `9-duplicate_last_line` | Duplicates the last line of the file iacta |
