@@ -21,3 +21,4 @@
 | `16-whatsnext` | Displays lines containing "root" and the 3 lines after them in /etc/passwd |
 | `17-hidethisword` | Displays all lines of /etc/passwd that do not contain the pattern "bin" |
 | `18-letteronly` | Displays all lines of /etc/ssh/sshd_config starting with a letter |
+| `19-AZ` | Replaces all characters A and c from input with Z and e respectively |
